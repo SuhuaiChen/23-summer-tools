@@ -44,5 +44,5 @@ python3 colang.py
 
 #### Running the tagger
 ```
-python3 feedback_classifify.py
+python3 feedback_classify.py
 ```
